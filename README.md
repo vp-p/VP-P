@@ -10,4 +10,4 @@ A cada dia procurando desenvolver mais e mais habilidades técnincas - aprendiza
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-A4F722?style=for-the-badge&logo=linkedin&logoColor=0F100D)](https://www.linkedin.com/in/viniciuspenteadop/)  [![GitHub](https://img.shields.io/badge/GitHub-A4F722?style=for-the-badge&logo=github&logoColor=0F100D)](https://github.com/vp-p) [![Gmail](https://img.shields.io/badge/Gmail-A4F722?style=for-the-badge&logo=gmail&logoColor=0F100D)](mailto:viniciuspenteadop@gmail.com) 
 
 ## Estudando agora:
-![Git](https://img.shields.io/badge/GIT-0F100D?style=for-the-badge&logo=git&logoColor=A4F722)  ![JavaScript](https://img.shields.io/badge/JavaScript-0F100D?style=for-the-badge&logo=javascript&logoColor=A4F722)
+![Java](https://img.shields.io/badge/java-A4F722.svg?style=for-the-badge&logo=openjdk&logoColor=0F100D)

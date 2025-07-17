@@ -12,4 +12,4 @@ Presently, I am focused on building reliable, maintainable back‑end systems us
 ![Java](https://img.shields.io/badge/java-A4F722.svg?style=for-the-badge&logo=openjdk&logoColor=0F100D)
 ![Spring](https://img.shields.io/badge/Spring%20framework-A4F722?style=for-the-badge&logo=spring&logoColor=0F100D)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vp-p/theme=dark)](https://github.com/vp-p/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vp-p&theme=dark)]( https://github.com/vp-p/github-readme-stats )

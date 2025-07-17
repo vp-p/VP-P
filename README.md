@@ -1,9 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A4F722&width=435&lines=Olá!+Meu+nome+é+Vinicius+:P)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A4F722&width=435&lines=Hello!+My+name+is+Vinicius.)](https://git.io/typing-svg)
 
 | Sobre mim |
 | --------- |
-Estudante da FATEC, São José dos Campos - "Prof Jessen Vidal" pelo curso de Banco de Dados. Estou no segundo semestre do curso e planejo me especializar na área de dados.  
-A cada dia procurando desenvolver mais e mais habilidades técnincas - estruturas de dados, linguagem de programação Java, programação orientada a objetos (POO), MySQL - e comportamentais, sociais e emocionais como: resolução de problemas, trabalho em equipe, proatividade, atenção e foco, comunicação.
+**FATEC São José dos Campos – 3rd Semester**
+I’m currently pursuing a degree in Database Engineering under Professor Jessen Vidal at FATEC São José dos Campos, preparing to specialize in the data domain. Currently, I’m enhancing my technical expertise in:
+Presently, I am focused on building reliable, maintainable back‑end systems using Spring, Java EE, and PostgreSQL. My interests extend to large language models (LLMs) and AI-integrated data pipelines.
  
 ## Social 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-A4F722?style=for-the-badge&logo=linkedin&logoColor=0F100D)](https://www.linkedin.com/in/viniciuspenteadop/)  [![GitHub](https://img.shields.io/badge/GitHub-A4F722?style=for-the-badge&logo=github&logoColor=0F100D)](https://github.com/vp-p) [![Gmail](https://img.shields.io/badge/Gmail-A4F722?style=for-the-badge&logo=gmail&logoColor=0F100D)](mailto:viniciuspenteadop@gmail.com) 

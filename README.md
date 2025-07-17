@@ -10,3 +10,4 @@ A cada dia procurando desenvolver mais e mais habilidades técnincas - estrutura
 
 ## Estudando agora:
 ![Java](https://img.shields.io/badge/java-A4F722.svg?style=for-the-badge&logo=openjdk&logoColor=0F100D)
+![Spring](https://img.shields.io/badge/Spring%20framework-A4F722?style=for-the-badge&logo=spring&logoColor=0F100D)

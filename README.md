@@ -2,7 +2,6 @@
 
 | Sobre mim |
 | --------- |
-**FATEC São José dos Campos – 3rd Semester**
 I’m currently pursuing a degree in Database Engineering under Professor Jessen Vidal at FATEC São José dos Campos, preparing to specialize in the data domain. Currently, I’m enhancing my technical expertise in:
 Presently, I am focused on building reliable, maintainable back‑end systems using Spring, Java EE, and PostgreSQL. My interests extend to large language models (LLMs) and AI-integrated data pipelines.
  

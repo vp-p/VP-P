@@ -8,7 +8,7 @@ Presently, I am focused on building reliable, maintainable back‑end systems us
 ## Social 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-A4F722?style=for-the-badge&logo=linkedin&logoColor=0F100D)](https://www.linkedin.com/in/viniciuspenteadop/)  [![GitHub](https://img.shields.io/badge/GitHub-A4F722?style=for-the-badge&logo=github&logoColor=0F100D)](https://github.com/vp-p) [![Gmail](https://img.shields.io/badge/Gmail-A4F722?style=for-the-badge&logo=gmail&logoColor=0F100D)](mailto:viniciuspenteadop@gmail.com) 
 
-## Currently studying:
+## Currently working with:
 ![Java](https://img.shields.io/badge/java-A4F722.svg?style=for-the-badge&logo=openjdk&logoColor=0F100D)
 ![Spring](https://img.shields.io/badge/Spring%20framework-A4F722?style=for-the-badge&logo=spring&logoColor=0F100D)
 

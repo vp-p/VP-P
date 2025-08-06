@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A4F722&width=435&lines=Hello!+My+name+is+Vinicius.)](https://git.io/typing-svg)
 
-| Sobre mim |
+| About |
 | --------- |
 As a backend (Java) developer, I’m currently pursuing a degree in Database Engineering under Professor Jessen Vidal at FATEC São José dos Campos, preparing to specialize in the data domain.
 Presently, I am focused on building reliable, maintainable back‑end systems using Spring (JPA, Hibernate), Java EE, and PostgreSQL. My interests extend to large language models (LLMs) and AI-integrated data pipelines.
